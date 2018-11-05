@@ -10,6 +10,6 @@
     { "id": 8, "name": "Dhruvan", "nickname": "Dhru", "sname": "Polishetty", "age": "60", "gender": "Male" },
     { "id": 9, "name": "Narsing", "nickname": "Narsing", "sname": "Polishetty", "age": "60", "gender": "Male" },
     { "id": 10, "name": "Mamatha", "nickname": "Kutti", "sname": "Polishetty", "age": "60", "gender": "Male" },
-    { "id": 11, "name": "Akshith", "nickname": "Abhi", "sname": "Polishetty", "age": "60", "gender": "Male" },
+    { "id": 11, "name": "Akshith", "nickname": "Abhi", "sname": "Polishetty", "age": "60", "gender": "Male" }
   ]
 }
